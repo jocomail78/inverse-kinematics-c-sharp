@@ -1,0 +1,16 @@
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\bin\Debug\IK_SE.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\bin\Debug\IK_SE.pdb
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\IK_SE.Form1.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\IK_SE.Properties.Resources.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\IK_SE.csproj.GenerateResource.Cache
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\IK_SE.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE\IK_SE\IK_SE\obj\Debug\IK_SE.pdb
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\IK_SE.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\IK_SE.pdb
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\bin\Debug\IK_SE.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\bin\Debug\IK_SE.pdb
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\IK_SE.Form1.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\IK_SE.Properties.Resources.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika_SE_Wifly_Kapcsolat\IK_SE\IK_SE\obj\Debug\IK_SE.csproj.GenerateResource.Cache

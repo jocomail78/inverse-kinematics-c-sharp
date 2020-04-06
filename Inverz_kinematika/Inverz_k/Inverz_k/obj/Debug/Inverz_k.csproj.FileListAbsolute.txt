@@ -1,0 +1,8 @@
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\bin\Debug\Inverz_k.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\bin\Debug\Inverz_k.pdb
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\Inverz_k.Form1.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\Inverz_k.Properties.Resources.resources
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\Inverz_k.csproj.GenerateResource.Cache
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\Inverz_k.exe
+C:\Users\Joco\Documents\Visual Studio 2008\Projects\C#\Uj\Inverz_kinematika\Inverz_k\Inverz_k\obj\Debug\Inverz_k.pdb
